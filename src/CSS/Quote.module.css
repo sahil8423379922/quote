@@ -1,0 +1,27 @@
+.card{
+  min-width: 500px;
+  max-width: 500px;
+  min-height: 200px;
+  max-height: auto;
+}
+
+.root{
+  height: 100vh;
+  justify-content: center;
+  display: flex;
+  align-items: center;
+  
+}
+
+.quoteText{
+  font-size: 30px;
+  text-align: center;
+}
+
+.quoteAuthor{
+  text-align: right;
+}
+
+.icon{
+  padding: 5px;
+}
